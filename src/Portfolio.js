@@ -4,11 +4,11 @@ const Portfolio = () => {
   return (
     <div className="portfolio">
       <div className="header">
-        <h1>Cheekati Avinash</h1>
+        <h1>D.Vidya sagar</h1>
         <h2>Student</h2>
         <div className="contact-info">
           <h3>
-            <a href="mailto:avinash.21bec7210@vitapstudent.ac.in">avinash.21bec7210@vitapstudet.ac.in</a>
+            <a href="mailto:sagar.21bce8777@vitapstudent.ac.in">avinash.21bec7210@vitapstudet.ac.in</a>
           </h3>
           <h3>Phone Number: 8142836320</h3>
         </div>
