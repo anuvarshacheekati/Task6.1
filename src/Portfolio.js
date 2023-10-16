@@ -8,7 +8,7 @@ const Portfolio = () => {
         <h2>Student</h2>
         <div className="contact-info">
           <h3>
-            <a href="mailto:sagar.21bce8777@vitapstudent.ac.in">avinash.21bec7210@vitapstudet.ac.in</a>
+            <a href="mailto:sagar.21bce8777@vitapstudent.ac.in">sagar.21bce8777@vitapstudent.ac.in</a>
           </h3>
           <h3>Phone Number: 8142836320</h3>
         </div>
@@ -17,7 +17,7 @@ const Portfolio = () => {
       <div className="about">
         <h2>About Me</h2>
         <p>
-          I am a passionate and creative professional with expertise in PCB and IoT and various Electroni fields. I love to learn, experiment, and create meaningful projects.
+          I am a passionate and creative professional with expertise in WEB development and IoT and various fields. I love to learn, experiment, and create meaningful projects.
         </p>
       </div>
 
@@ -36,9 +36,9 @@ const Portfolio = () => {
       <div className="skills">
         <h2>Skills</h2>
         <ul>
-          <li>PCB Design</li>
-          <li>Embedded programming</li>
-          <li>Assembly programming</li>
+          <li>JAVA</li>
+          <li>WEB-DESIGN</li>
+          <li>Python</li>
           <li>JavaScript</li>
           <li>React</li>
           <li>Node.js</li>
@@ -63,7 +63,7 @@ const Portfolio = () => {
           Feel free to reach out to me through email or phone. I'm always open to new opportunities and collaborations.
         </p>
         <p>Email: 
-            <a href="mailto:aviash396@email.com">aviash396@email.com</a></p><p>Phone: 8142836320
+            <a href="mailto:sagar.21bce8777@vitapstudent.ac.in">sagar.21bce8777@vitapstudent.ac.in</a></p><p>Phone: 8142836320
             </p></div></div>);
 };
 
